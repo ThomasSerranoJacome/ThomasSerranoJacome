@@ -1,16 +1,110 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ThomasSerranoJacome/ThomasSerranoJacome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&text=Thomas%20Serrano%20J%C3%A1come&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Camper%20en%20Formaci%C3%B3n%20%7C%20Bucaramanga%2C%20Colombia&descAlignY=58&descSize=16)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=7F77DD&center=true&vCenter=true&width=540&lines=Camper+en+Formaci%C3%B3n+%F0%9F%92%BB;T%C3%A9cnico+en+Gesti%C3%B3n+Empresarial+%F0%9F%93%8A;Aprendiendo+y+construyendo+cada+d%C3%ADa+%F0%9F%9A%80;Si+juego%2C+juego+para+ganar+%F0%9F%8F%86;1+a%C3%B1o+%3D+365+oportunidades+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThomasSerranoJacome&color=7F77DD&style=for-the-badge&label=Visitas+al+perfil" alt="Contador visitas" />
+</p>
+
+<p align="center">
+  <a href="mailto:thomasserranojacome@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Cont%C3%A1ctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ThomasSerranoJacome">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+Soy **Thomas Serrano**, de Bucaramanga, Colombia 🇨🇴. Actualmente me formo como desarrollador de software, con una base sólida en gestión empresarial y una mentalidad de crecimiento constante.
+
+- 💻 Camper en formación técnica en **Desarrollo de Software**
+- 📊 Técnico especializado en **Gestión Empresarial**
+- 🔥 Apasionado por la tecnología y todo lo que puede aportar al mundo
+- 🗣️ Idiomas: **Español (nativo)** · **Inglés A2 (en progreso)**
+- 🏪 Emprendedor: vendo ropa, zapatos y perfumes
+
+---
+
+## ⚡ Facts
+
+> *"La vida cambia cuando empiezas a enfocarte en ti."*
+> *"Si juego, juego para ganar."*
+> *"1 año = 365 oportunidades."*
+
+```text
+💪 Gym todos los días — es mi templo, mi espacio sin estrés
+⚽ El fútbol me enseñó a trabajar en equipo y nunca rendirme
+🏪 Emprendedor desde joven — vendo ropa, zapatos y perfumes
+📱 Siempre atento a cómo la tecnología puede mejorar mi negocio
+😄 Compasivo, responsable y siempre enfocado en mis metas
+` ` `
+
+---
+
+## 🧠 Mi mentalidad
+
+` ` `text
+Enfocarse → Aprender → Construir → Mejorar → Repetir
+` ` `
+
+Soy una persona **compasiva, responsable y enfocada**. Me gusta lo que hago, disfruto aprender y lucho cada día por conseguir mis metas y sueños.
+
+---
+
+## 🛠️ Tecnologías que estoy aprendiendo
+
+![Python](https://img.shields.io/badge/Python-Aprendiendo-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Aprendiendo-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Aprendiendo-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Aprendiendo-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📂 Proyectos
+
+### 💰 Simulador de Gasto Diario
+> Aplicación en Python que permite registrar y simular gastos diarios.
+
+- 🔧 **Tecnologías:** Python · VS Code
+- 📌 **Estado:** Actividad de formación completada
+- 🔗 [Ver repositorio](https://github.com/ThomasSerranoJacome)
+
+---
+
+## 🎯 Metas 2026
+
+- [ ] 🎓 Terminar el técnico en Desarrollo de Software
+- [ ] 🐍 Dominar Python con proyectos reales
+- [ ] 🌐 Crear mi primer proyecto web completo
+- [ ] 💼 Construir un portafolio con 3+ proyectos
+- [ ] 🗣️ Mejorar mi inglés a nivel 
+- [ ] 🚀 Conseguir mi primera experiencia laboral en tecnología
+
+---
+
+## 🤝 ¿Conectamos?
+
+Si quieres colaborar, aprender juntos o simplemente charlar sobre tecnología, ¡escríbeme!
+
+- ✉️ **Email:** thomasserranojacome@gmail.com
+- 📱 **Teléfono:** +57 313 666 7887
+- 💻 **GitHub:** [ThomasSerranoJacome](https://github.com/ThomasSerranoJacome)
+
+---
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer)
+
+
+```
