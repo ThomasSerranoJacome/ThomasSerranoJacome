@@ -88,5 +88,3 @@ Si quieres colaborar, aprender juntos o simplemente charlar sobre tecnología, �
 - ✉️ **Email:** thomasserranojacome@gmail.com
 - 📱 **Teléfono:** +57 313 666 7887
 - 💻 **GitHub:** [ThomasSerranoJacome](https://github.com/ThomasSerranoJacome)
-
-```
