@@ -21,6 +21,7 @@
   </a>
 </p>
 
+---
 
 
 ## 🚀 Sobre mí
@@ -31,8 +32,8 @@ Soy **Thomas Serrano**, de Bucaramanga, Colombia 🇨🇴. Actualmente me formo 
 - 📊 Técnico especializado en **Gestión Empresarial**
 - 🔥 Apasionado por la tecnología y todo lo que puede aportar al mundo
 - 🗣️ Idiomas: **Español (nativo)** · **Inglés A2 (en progreso)**
-- 🏪 Emprendedor: vendo ropa, zapatos y perfumes
-
+- 🏪 Emprendedor: ropa, zapatos y perfumes
+---
 
 
 ## ⚡ Facts
@@ -43,11 +44,11 @@ Soy **Thomas Serrano**, de Bucaramanga, Colombia 🇨🇴. Actualmente me formo 
 
 💪 Gym todos los días — es mi templo, mi espacio sin estrés
 ⚽ El fútbol me enseñó a trabajar en equipo y nunca rendirme
-🏪 Emprendedor desde joven — vendo ropa, zapatos y perfumes
+🏪 Emprendedor desde joven —  ropa, zapatos y perfumes
 📱 Siempre atento a cómo la tecnología puede mejorar mi negocio
 😄 Compasivo, responsable y siempre enfocado en mis metas
 ` ` `
-
+---
 
 
 ## 🧠 Mi mentalidad 
@@ -56,7 +57,7 @@ Enfocarse → Aprender → Construir → Mejorar → Repetir
 
 
 Soy una persona **compasiva, responsable y enfocada**. Me gusta lo que hago, disfruto aprender y lucho cada día por conseguir mis metas y sueños.
-
+---
 
 
 ## 📂 Proyectos
@@ -66,8 +67,8 @@ Soy una persona **compasiva, responsable y enfocada**. Me gusta lo que hago, dis
 
 - 🔧 **Tecnologías:** Python · VS Code
 - 📌 **Estado:** Actividad de formación completada
-- 🔗 [Ver repositorio](https://github.com/ThomasSerranoJacome)
-
+- 🔗 [Ver repositorio](https://github.com/ThomasSerranoJacome/Proyecto_Python_Serrano_Thomas.git)
+---
 
 
 ## 🎯 Metas 2026
@@ -78,7 +79,7 @@ Soy una persona **compasiva, responsable y enfocada**. Me gusta lo que hago, dis
 - 💼 Construir un portafolio con 3+ proyectos
 - 🗣️ Mejorar mi nivel de inglés 
 - 🚀 Conseguir mi primera experiencia laboral en tecnología
-
+---
 
 
 ## 🤝 ¿Conectamos?
@@ -88,3 +89,9 @@ Si quieres colaborar, aprender juntos o simplemente charlar sobre tecnología, �
 - ✉️ **Email:** thomasserranojacome@gmail.com
 - 📱 **Teléfono:** +57 313 666 7887
 - 💻 **GitHub:** [ThomasSerranoJacome](https://github.com/ThomasSerranoJacome)
+- 📱 **Instagram:** tom_x45
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:89CFF0,100:B0E0E6&height=120&section=footer&text=No%20compito%20con%20otros,%20compito%20con%20quien%20fui%20ayer.&fontSize=18&fontColor=ffffff" />
+</p>
